@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Contact = () => {
   return (
-    <div>Contact</div>
+    <h1 className="text-center">Contact</h1>
   )
 }
 export default Contact;

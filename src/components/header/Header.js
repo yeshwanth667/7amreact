@@ -1,7 +1,7 @@
 import React from 'react'
-import "./Header.css"
+import styles from "./Header.module.css"
 export const Header = () => {
   return (
-    <div className="bg-primary text-center header">My first react application</div>
+    <div className={`bg-primary text-center text-white ${styles.header}`}>My first react Application</div>
   )
 }
