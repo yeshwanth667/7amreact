@@ -1,0 +1,16 @@
+.menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    background: #cfd7e0;
+    line-height: 40px;
+}
+
+.menuItem{
+    display: inline;
+    margin-right: 15px;
+    letter-spacing: 3px;
+    font-size: 20px;
+    font-style: italic;
+}
