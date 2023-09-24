@@ -1,3 +1,4 @@
-import Home from './home/page'
+export default function Home(){
+  return <h1>hellow world</h1>
+}
 
-export default Home
